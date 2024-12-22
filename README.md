@@ -9,3 +9,10 @@ Sayo is an AI-powered chatbot developed using Python and Django. The chatbot use
 - Provides answers to user queries based on predefined data.
 - Easy-to-deploy using Docker.
 - User-friendly interface for easy interactions.
+
+  ## Technologies Used
+- **Python**: Backend development.
+- **Django**: Web framework for building the application.
+- **TensorFlow**: For machine learning-based NLP.
+- **SQLite**: Database for storing user interactions and chatbot data.
+
